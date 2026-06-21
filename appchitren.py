@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 st.title("😡 CHI TRÊN")
-st.caption("nhập đáp án theo từng số. Sau khi nhấn Enter, đáp án đúng sẽ hiện ngay bên dưới và tự động nhảy sang câu tiếp theo.")
+st.caption("Nhập đáp án theo từng số. Sau khi nhấn Enter, đáp án đúng sẽ hiện ngay bên dưới và tự động nhảy sang câu tiếp theo.")
 
 # Khởi tạo trạng thái lưu vị trí ô cần nhảy tiếp theo
 if "next_focus_idx" not in st.session_state:
@@ -438,7 +438,7 @@ with col2:
         st.session_state.next_focus_idx = None
 
     # Nút chuyển tiếp nhanh ở cuối phần điền đáp án
-    st.markdown("### 🧭 Điều hướng nhanh")
+    st.markdown
     nav_col1, nav_col2 = st.columns(2)
 
     with nav_col1:
