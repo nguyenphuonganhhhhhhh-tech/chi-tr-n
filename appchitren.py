@@ -71,10 +71,8 @@ STATIONS = [
 "2": "chỏm xg cánh tay",
 "3": "cổ giải phẫu",
 "4": "cổ phẫu thuật",
-"5": "chỗ bám cơ ngực lớn",
 "6": "lồi củ delta",
 "7": "củ lớn",
-
 "13": "rãnh gian củ",
 "14": "củ bé"
         }
