@@ -74,10 +74,7 @@ STATIONS = [
 "5": "chỗ bám cơ ngực lớn",
 "6": "lồi củ delta",
 "7": "củ lớn",
-"8": "diện trên (bám cơ trên gai)",
-"9": "diện giữa (bám cơ dưới gai)",
-"10": "diện dưới (bám cơ tròn bé)",
-"11": "chỗ bám cơ quạ cánh tay",
+
 "13": "rãnh gian củ",
 "14": "củ bé"
         }
