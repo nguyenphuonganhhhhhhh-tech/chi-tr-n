@@ -438,7 +438,7 @@ with col2:
         st.session_state.next_focus_idx = None
 
     # Nút chuyển tiếp nhanh ở cuối phần điền đáp án
-    st.markdown
+    st.markdown (".")
     nav_col1, nav_col2 = st.columns(2)
 
     with nav_col1:
